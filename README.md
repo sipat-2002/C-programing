@@ -1,2 +1,3 @@
 # C-programing
-This is my first Git Repostitory
+This is my first Git Repostitory.
+Author-Shaharia Islam Sifat
